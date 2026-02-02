@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "files.insertFinalNewline": true,
+  "[javascript][json][jsonc][tailwindcss][typescript][typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2
+  }
+}
