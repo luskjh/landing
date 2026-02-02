@@ -184,7 +184,7 @@ export default function Home() {
                 <div className="text-4xl font-semibold">🌾 Midharvest</div>
                 <div className="flex flex-1 items-center">
                   <div>
-                    <div>
+                    <div className="mt-4 lg:mt-0">
                       <a href="#" className="inline-flex space-x-6">
                         <span className="bg-everforest-50 text-everforest-600 ring-everforest-600/20 dark:bg-everforest-500/10 dark:text-everforest-400 dark:ring-everforest-500/25 rounded-full px-3 py-1 text-sm/6 font-semibold ring-1 ring-inset">
                           What's new
